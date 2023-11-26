@@ -1,0 +1,8 @@
+Archivo principal
+notebooks/scratch.ipynb
+
+Profiling
+docs/profile_min.rar
+
+Modelo
+models/modelo_final.pkl
