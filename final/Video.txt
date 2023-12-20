@@ -1,0 +1,4 @@
+Link al video y a la carpeta de drive con todos los archivos: 
+https://drive.google.com/drive/folders/1-TVuOKCaC76TVvHLJsteMDzCr9StHK2J?usp=sharing
+
+Nota: el modelo final b no se pudo cargar a github por el tamano; incluso comprimiendolo exede el tamano permitido. 
