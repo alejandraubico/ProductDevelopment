@@ -2,3 +2,6 @@ Link al video y a la carpeta de drive con todos los archivos:
 https://drive.google.com/drive/folders/1-TVuOKCaC76TVvHLJsteMDzCr9StHK2J?usp=sharing
 
 Nota: el modelo final b no se pudo cargar a github por el tamano; incluso comprimiendolo exede el tamano permitido. 
+Actualizacion: si se encuentran los dos modelos faltantes (b y c) cargados, por medio de git-lfs. Les dejo el link de arriba para el video. 
+
+Gracias!
